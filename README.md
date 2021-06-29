@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, I'm Eren Torun</h1>
+<h1 align="center">Merhaba 👋, Ben Eren Torun</h1>
 <h3 align="center">Az buçuk js ile uğraşan çok acemi developer</h3>
 
 <h3 align="left">Benimle aşağıdaki adreslerden iletişime geçebilirsiniz :</h3>
